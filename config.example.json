@@ -1,0 +1,6 @@
+{
+  "physical_displays": [
+    {"uuid": "REPLACE_WITH_PHYSICAL_DISPLAY_UUID", "hardware_key": "1234:5678:0"}
+  ],
+  "virtual_tag_id": 1
+}

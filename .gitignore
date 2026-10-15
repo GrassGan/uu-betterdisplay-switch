@@ -1,0 +1,13 @@
+config.json
+config.*.local.json
+state/
+build/
+*.app/
+__pycache__/
+*.pyc
+*.log
+*.jsonl
+.DS_Store
+input-events
+display-sleep
+*.command
